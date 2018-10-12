@@ -1,22 +1,22 @@
 # Collaborative event/task manager
 
-# Problem
+## Problem
 
 There are many options out there for calendar and task management applications, but most don't allow for a collaborative approach or delegation-based planning.
 
-# Objective
+## Objective
 
 To create an easy-to-use app that combines event coordination and task management, and allows it to be approached in a cooperative way. This will increase the efficiency of workflow and planning for groups/big events, and allow different settings for volunteering/mandatory tasks and events.
 
 The idea is to make a simple,  effective hierarchical structure to the planning. Events>Tasks>Subtasks.
 
-# User Stories
+## User Stories
 
 Users will be able to make an account, and once that's done, they'll be able to create events or tasks. The site will have a hierarchical structure, so if the user creates an event, they will be able to nest a series of tasks within that event. Tasks will also be broken up into subtasks (if needed) for greater clarity and efficiency. The user will also be able to invite other users "to" the event, and once the invitees have accepted, they'll be able to assign other users to specific tasks.
 
 Users will also be able to add descriptions and time tables to any event/task/subtask, and comment on them if they are a part of the event/task but not the creator.
 
-# Stretch Goals
+## Stretch Goals
 
 1. Include the functionality to create groups, which will be useful in many situations (workplaces, academics, houses with multiple tenants, etc). Users will be able to create events/tasks that are strictly visible only to invited group members.
 
@@ -30,14 +30,14 @@ Users will also be able to add descriptions and time tables to any event/task/su
 
 6. Include functionality to make events/tasks specifically designated by an admin user (who creates the task) or open to volunteers instead.
 
-# Design
+## Design
 
 Not yet decided, but the general idea is to make something that is minimalistic, with an overarching color scheme that creates a unique visual identity.
 
-# Directories
+## Directories
 
 Ideally, a simple combination of DIST and SRC directories, each containing html, css, and js files. This will necessitate the use of some tooling (compilers especially). The deployment process will also have to involve something like heroku that will allow for a more complex file hierarchy.
 
-# Wireframe
+## Wireframe
 
 Not yet decided.
