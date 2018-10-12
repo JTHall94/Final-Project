@@ -1,4 +1,6 @@
-# Collaborative event/task manager
+# Collaborative Event/Task Manager
+
+A webapp that allows cooperative event coordination and/or task management.
 
 ## Problem
 
@@ -8,13 +10,21 @@ There are many options out there for calendar and task management applications, 
 
 To create an easy-to-use app that combines event coordination and task management, and allows it to be approached in a cooperative way. This will increase the efficiency of workflow and planning for groups/big events, and allow different settings for volunteering/mandatory tasks and events.
 
-The idea is to make a simple,  effective hierarchical structure to the planning. Events>Tasks>Subtasks.
+The idea is to make a simple, effective hierarchical structure to planning: Events>Tasks>Subtasks.
+
+Ideally, this webapp would be useful to very wide-range of users, from organizations planning volunteer events to a group of friends planning a birthday party.
 
 ## User Stories
 
 Users will be able to make an account, and once that's done, they'll be able to create events or tasks. The site will have a hierarchical structure, so if the user creates an event, they will be able to nest a series of tasks within that event. Tasks will also be broken up into subtasks (if needed) for greater clarity and efficiency. The user will also be able to invite other users "to" the event, and once the invitees have accepted, they'll be able to assign other users to specific tasks.
 
 Users will also be able to add descriptions and time tables to any event/task/subtask, and comment on them if they are a part of the event/task but not the creator.
+
+##Data
+
+Users will be able to input parameters for creation of events/tasks/subtasks, descriptions and time tables for each, as well as comments.
+
+The website will output a clean, easily accessible hierarchical structure that is easy to move through and edit as you go.
 
 ## Stretch Goals
 
