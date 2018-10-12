@@ -16,6 +16,8 @@ Users will be able to make accounts, and create an "excursion" (app name??) whic
 
 The user will also be able to tag other users (ex: a wife or parents) in the excursion, and they will be notified if the user does not return before or at the allotted time.
 
+This will allow users to be safer on hiking trips or other adventures into the wilderness.
+
 ## Data
 
 Users will be able to input excursion data: entry location/time, and exit location time. Users will also be able to tag other users to be notified upon return/failure to return. Users can also set series of alerts/alarms with varying degrees of severity.

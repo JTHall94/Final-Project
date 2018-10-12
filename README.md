@@ -1,4 +1,4 @@
-#Final Project Ideas
+# Final Project Ideas
 
 As of right now, this file contains general outlines for final project ideas. These outlines seek to answer the following questions:
 
