@@ -14,11 +14,22 @@ The idea is to make a simple, effective hierarchical structure to planning: Even
 
 Ideally, this webapp would be useful to very wide-range of users, from organizations planning volunteer events to a group of friends planning a birthday party.
 
-## User Stories
+## Outline
 
 Users will be able to make an account, and once that's done, they'll be able to create events or tasks. The site will have a hierarchical structure, so if the user creates an event, they will be able to nest a series of tasks within that event. Tasks will also be broken up into subtasks (if needed) for greater clarity and efficiency. The user will also be able to invite other users "to" the event, and once the invitees have accepted, they'll be able to assign other users to specific tasks.
 
 Users will also be able to add descriptions and time tables to any event/task/subtask, and comment on them if they are a part of the event/task but not the creator.
+
+## User Stories
+
+As a nonprofit event manager, I want to be able to set up an event and denote all of the tasks that need to be completed for the event, and allow other people to sign up and volunteer for them.
+
+As a parent, I want to be able to plan a list of tasks that need to be completed by my spouse and children while I'm gone on a trip.
+
+As a club president, I want to be able to make a group, invite the members of my club, and then easily plan events where I can delegate tasks to the other members.
+
+
+
 
 ##Data
 

@@ -10,13 +10,19 @@ Hikers and other adventurers who are going into potentially dangerous wilderness
 
 To create a simple webapp that will allow users to specify a location and time of entry, as well as a location and time of return, as well as tagging users that will be notified if they do not check in before the specified return time. This will allow the proper authorities to be notified in dangerous situations.
 
-## User Stories
+## Outline
 
 Users will be able to make accounts, and create an "excursion" (app name??) which will include a set departure time/location and a set return time/location.
 
 The user will also be able to tag other users (ex: a wife or parents) in the excursion, and they will be notified if the user does not return before or at the allotted time.
 
 This will allow users to be safer on hiking trips or other adventures into the wilderness.
+
+## User stories
+
+As a hiker, I want to be able to set up an alert that will notify my wife if I don't return from this dangerous section of the forest by 9PM, so that she may call the authorities.
+
+As a parent, I want to be able to receive a notification if my child isn't back from their hike at 7PM, so that I can drive to where they were. Then I want to receive a second notification if they still haven't checked back in by 8PM, so I can contact the park ranger.
 
 ## Data
 
