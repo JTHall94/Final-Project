@@ -1,6 +1,6 @@
 # Final Project Ideas
 
-As of right now, this file contains general outlines for final project ideas. These outlines seek to answer the following questions:
+As of right now, this repository contains general outlines for final project ideas. These outlines seek to answer the following questions:
 
 1. What is a general description of the project?
 
@@ -15,3 +15,12 @@ As of right now, this file contains general outlines for final project ideas. Th
 6. What will the data input/output be like?
 
 7. What will the page design look like?
+
+
+The Repository now also includes two pdf files, one which contains wireframe mockups of a couple of pages intended for the site, and the other contains an outline of possible database structure.
+
+## Links:
+
+  (/New_Project.pdf)
+  (/Database_Modeling_for_Final_Project_-_Sheet1.pdf)
+  
