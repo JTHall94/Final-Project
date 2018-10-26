@@ -18,9 +18,3 @@ As of right now, this repository contains general outlines for final project ide
 
 
 The Repository now also includes two pdf files, one which contains wireframe mockups of a couple of pages intended for the site, and the other contains an outline of possible database structure.
-
-## Links:
-
-  (/New_Project.pdf)
-  (/Database_Modeling_for_Final_Project_-_Sheet1.pdf)
-  
